@@ -23,12 +23,12 @@
     <h1>Pokémon Battle</h1>
     <div class="pokemon">
       <div class="pokemon-image">
-        <img src="pikachu.png" alt="Pikachu">
+        <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" alt="Pikachu">
         <p>Pikachu</p>
         <p>HP: <span id="pikachuHP">100</span></p>
       </div>
       <div class="pokemon-image">
-        <img src="charmander.png" alt="Charmander">
+        <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png" alt="Charmander">
         <p>Charmander</p>
         <p>HP: <span id="charmanderHP">120</span></p>
       </div>
